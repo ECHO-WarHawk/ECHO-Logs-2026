@@ -1,0 +1,37 @@
+{
+  "siteTheme": {
+    "ui": "classic",
+    "paletteId": "Arcane",
+    "kineticFont": "default"
+  },
+  "entries": [
+    {
+      "id": "20260305-185018-fsfp",
+      "title": "Pintsize Wraith",
+      "commanders": [
+        "Pintsize Wraith"
+      ],
+      "dateStart": "2026-03-05T23:50:18.000Z",
+      "dateEnd": "2026-03-06T02:23:47.000Z",
+      "dateLabel": "3/5/2026, 6:50:18 PM - 3/5/2026, 9:23:47 PM",
+      "url": "https://ECHO-WarHawk.github.io/ECHO-Logs-2026/?report=20260305-185018-fsfp",
+      "summary": {
+        "borderlandsPct": 0.4864864864864865,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 19,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 18,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 31
+      }
+    }
+  ]
+}
